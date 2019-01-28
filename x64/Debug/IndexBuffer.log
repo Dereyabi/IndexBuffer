@@ -1,2 +1,9 @@
-﻿  IndexBuffer.vcxproj -> D:\JStewart8\Desktop\IndexBuffer\\IndexBuffer.exe
-  IndexBuffer.vcxproj -> D:\JStewart8\Desktop\IndexBuffer\\IndexBuffer.pdb (Partial PDB)
+﻿  Direct3DSetup.cpp
+c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(229): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
+  Main.cpp
+c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(229): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
+  Scene.cpp
+c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(229): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
+  Shader.cpp
+c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(229): error C2760: syntax error: unexpected token 'identifier', expected 'type specifier'
+  Generating Code...
